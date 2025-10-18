@@ -1,0 +1,25 @@
+// Challenge 1: 2D array  - Scores for 3 Students, each with 3 test scores
+const allScores = [
+  [55, 70, 68],   // Student 1 scores
+  [98, 100, 99],  // Student 2 scores
+  [69, 85, 70]    // Student 3 scores
+];
+
+console
+
+const theaterSeating = [
+  ["A1", "A2", "A3", "A4"], // Row A
+  ["B1", "B2", "B3", "B4"], // Row B
+  ["C1", "C2", "C3", "C4"]  // Row C
+];
+// Challenge 2: Log the 2D arrays theater seating    
+console.log("Theater Seating:", theaterSeating);  
+
+// Challenge 3: : Form a Multi-Dimensional Array contact list Name, Email, Phone Number
+const contactList = [
+  ["John Doe", "john@abc.com", "123-456-7890"],
+  ["Jane Smith", "Jane@abc.com", "987-654-3210"],
+  ["Emily Davis", "Emily@abc.com", "555-666-7777"]
+];
+// Log the contact list
+console.log("Contact List:", contactList); 
