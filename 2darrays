@@ -5,7 +5,7 @@ const allScores = [
   [69, 85, 70]    // Student 3 scores
 ];
 
-console
+console.log("All Scores:", allScores);
 
 const theaterSeating = [
   ["A1", "A2", "A3", "A4"], // Row A
